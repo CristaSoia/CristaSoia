@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CristaSoia
-- 👀 I’m interested in games
-- 🌱 I’m currently learning linux
+- 👋 Hi, I’m @CristaSoia.I'm just a noob.
+- 👀 I’m interested in games.
+- 🌱 I’m currently learning linux.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
